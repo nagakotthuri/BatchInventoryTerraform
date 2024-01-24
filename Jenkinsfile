@@ -1,6 +1,6 @@
 pipe line 
 {
-    I love you
+   {} I love you
 }pipeline
 {
     agent any
@@ -8,7 +8,7 @@ pipe line
     stages{
         
        prod {
-        
+        {}
        }
     }
 
