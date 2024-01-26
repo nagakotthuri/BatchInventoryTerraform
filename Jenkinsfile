@@ -1,13 +1,12 @@
-pipeline
+pipe line 
 {
-    agent any
-
-    stages{
-
+agents any
+  
+  stages{
+    
         stage ('checkout'){
-
-        }
-        
+      
+    }
 
         stage ('build'){
 
